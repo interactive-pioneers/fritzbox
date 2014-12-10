@@ -1,4 +1,4 @@
-fritzbox
+FRITZ!Box configuration stack
 ========
 
-Various FRITZ!Box configuration files
+Collection FRITZ!Box configuration files.
